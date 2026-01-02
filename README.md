@@ -12,10 +12,9 @@ I’m a Software Engineering and Data Analytics student focused on building clea
 ![](https://nirzak-streak-stats.vercel.app/?user=rushikesh249&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh249&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rushikesh249&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rushikesh249&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📌 Featured Projects
+- 🏥 **MediAssist-SmartCare** – AI-assisted healthcare system focused on data analysis and decision support  
+- 🔐 **CypherVault** – Secure data handling and encryption-focused application  
+- 🧠 **Next Word Predictor (LSTM)** – NLP-based sequence prediction using deep learning
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
