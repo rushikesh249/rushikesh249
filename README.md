@@ -13,7 +13,7 @@ I’m a Software Engineering and Data Analytics student focused on building clea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh249&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📌 Featured Projects
-- 🏥 **MediAssist-SmartCare** – AI-assisted healthcare system focused on data analysis , decision support  
+- 🏥 **MediAssist-SmartCare** – AI-assisted healthcare system focused on data analysis and decision support  
 - 🔐 **CypherVault** – Secure data handling and encryption-focused application  
 - 🧠 **Next Word Predictor (LSTM)** – NLP-based sequence prediction using deep learning
 
